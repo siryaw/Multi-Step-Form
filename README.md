@@ -19,8 +19,6 @@ A Multi-Step Form is broken into multiple cards. It requires details to be enter
 
 [Demo Here](https://multiformyaw22.surge.sh/)
 
-```
-
 ## License
 
 This project is licensed under the MIT license.
